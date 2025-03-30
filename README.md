@@ -1,2 +1,2 @@
 # Gender Income
-Regression analysis of factors influencing income
+Regression analysis of gender and other factors influencing income
